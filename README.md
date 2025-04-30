@@ -1,4 +1,4 @@
-# React Native CLI Socket Mobile ChatApp
+# React Native CLI Mobile ChatApp (Socket.IO)
 
 This is a mobile chat app built with React Native CLI and Socket.IO for real-time communication.
 

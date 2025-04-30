@@ -4,3 +4,4 @@ This is a mobile chat app built with React Native CLI and Socket.IO for real-tim
 
 ## 📽️ Watch Demo [🔗](https://drive.google.com/file/d/1drof9o8Hp_ylZ-1FwH92Tse_xPv1G9X0/view?usp=drive_link)
 
+<a href="https://drive.google.com/file/d/1drof9o8Hp_ylZ-1FwH92Tse_xPv1G9X0/view?usp=drive_link" target="_blank">▶️ Watch Demo Video</a>

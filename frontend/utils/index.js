@@ -1,6 +1,7 @@
 import { Platform } from "react-native";
 import { io } from "socket.io-client";
 export const BaseUrl =
-  Platform.OS === "android" ? "http://192.168.5.102:3000/" : "http://localhost:3000";
+  // put your local ip here
+  Platform.OS === "android" ? "http://(localhost-ip):3000/" : "http://localhost:3000";
 
-export const socket = io.connect("http://192.168.5.102:4000/");
+export const socket = io.connect("http://(localhost-ip):4000/");

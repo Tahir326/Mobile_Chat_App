@@ -3,8 +3,9 @@ const app = express();
 const http = require("http").Server(app);
 const cors = require("cors");
 const socketIO = require("socket.io")(http, {
+    // put your local ip here
   cors: {
-    origin: "http://192.168.5.102:3000/",
+    origin: "http://(local-ip):3000/",
   },
 });
 
